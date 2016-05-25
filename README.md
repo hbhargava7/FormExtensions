@@ -2,7 +2,7 @@
 jQuery-based extensions to make creating and filling HTML forms easier.
 
 ###Features List!
-*SelectItems: simply click on comma-separated items in a list to activate them, then when an action is triggered (such as form submission), the unselected items will be removed and the selected ones will remain.
+* **SelectItems**: simply click on comma-separated items in a list to activate them, then when an action is triggered (such as form submission), the unselected items will be removed and the selected ones will remain.
 
 ##Usage
 ###SelectItems
