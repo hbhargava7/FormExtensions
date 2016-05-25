@@ -8,11 +8,11 @@ jQuery-based extensions to make creating and filling HTML forms easier.
 ###SelectItems
 First download the SelectItems.js file and add it to your html header:
 ```html
-	<script src="SelectItems.js"></script>
+<script src="SelectItems.js"></script>
 ```
 Now create a span with class `ItemSelection` around your comma-separated list:
 ```html
-	I'd like to purchase <span class="ItemSelection">bananas, apples, oranges, and chickens</span>.
+I'd like to purchase <span class="ItemSelection">bananas, apples, oranges, and chickens</span>.
 ```
 Finally, add the class `GetItems` to the element you wish to remove the unwanted items (like a button), and enjoy!
 
